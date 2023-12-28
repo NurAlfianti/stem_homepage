@@ -10,6 +10,9 @@ terusan element ini ke masing masing penjelasan program jadi ngga ada page list 
 
 5. belum nambahin section VISI & MISI di home page
 6. map dan social contact ( FB, IG , YT, EMAIL) belum di ganti
+7. footer nya masih sejelek ini
+   ![image](https://github.com/NurAlfianti/stem_homepage/assets/94947480/32056faf-4584-4fa4-aeb2-794d24e2b49d)
+
 
 
 
